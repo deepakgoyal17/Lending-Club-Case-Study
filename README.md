@@ -12,7 +12,7 @@ Data in raw share has 39717 rows and 111 columns.
 
 Just by browsing the data we understand that there are many columns that are completely null and there many columns that are irrelevant so will be removed after analysing.
 
-** Some of the key columns that are relevant for this analysis are: **
+**** Some of the key columns that are relevant for this analysis are: ****
 1. Loan_amnt
 2. Term
 3. Int_rate
@@ -33,7 +33,7 @@ Just by browsing the data we understand that there are many columns that are com
 	5.Borrower with bankruptcies record have 8% high percentage of charged off.
 	6.Most of the loan is granted in Q4 (Dec,Nov, and Oct) and default ratio is also high for these months. So don't put sales pressure to disburse loans 
 
-** For more insights, refer to presentation.**
+**** For more insights, refer to presentation.****
 
 
 
